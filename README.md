@@ -69,7 +69,7 @@
 
 ## Day 9: Azure Storage Services
 - Types of Azure Storage Services
-- Use Cases and Demonstrations
+- Use Cases
 
 ## Day 10: Command Line Interface for Azure
 - Azure CLI Deep Dive
@@ -78,6 +78,9 @@
 
 ## Day 11: Azure Resource Manager
 - Azure Resource Manager and Azure Templates Deep Dive
+- Comparison with Bicep
+- Comparison with Azure CLI
+- Comparison with Terraform
 
 ## Day 12: Azure Authentication and Identity Management
 - Authentication Services in Azure
